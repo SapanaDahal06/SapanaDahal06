@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sapana</h1>
+<p align="center"><b>An aspiring Frontend Developer & Data Analyst</b></p>
 
-<!--
-**SapanaDahal06/SapanaDahal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🚀 I’m currently working on **Frontend Development**  
+- 🌱 I’m currently learning **Python & R**  
+- 🤝 I’m looking to collaborate on **Data Analyst projects**   
+- 💬 Ask me about **Frontend Development / Data Analyst**  
+- 📫 How to reach me: **sapanaa1206@example.com**  
+- ⚡ Fun fact: I love exploring data patterns and turning them into insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me  
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28"/>
+</a>
+
+---
+
+### 🛠️ Languages & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,r,git,github,vscode,mysql&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SapanaDahal06&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapanaDahal06&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=SapanaDahal06&theme=radical" height="165"/>
+</p>
+
+---
+
+### ✨ Extra  
+- 🎓 CS Student  
+- 📊 Exploring the bridge between **Frontend Development** & **Data Analytics**  
+- 🎯 Goal: Build real-world projects that combine design + data  
+
+
