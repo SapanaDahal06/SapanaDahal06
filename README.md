@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 - 🚀 I’m currently working on **Frontend Development**  
 - 🌱 I’m currently learning **Python,Django & R**  
-- 🤝 I’m looking to collaborate on **Data Analyst projects**   
+- 🤝 I’m looking to collaborate on **Data Engineering projects**   
 - 💬 Ask me about **Frontend Development / Data Engineering**  
 - 📫 How to reach me: **sapanaa1206@example.com**  
 - ⚡ Fun fact: I love exploring data patterns and turning them into insights  
